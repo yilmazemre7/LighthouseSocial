@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36327.8 d17.14
+VisualStudioVersion = 17.14.36327.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LighthouseSocial.Domain", "LighthouseSocial.Domain\LighthouseSocial.Domain.csproj", "{8449F857-1DD5-4B6F-852C-CA00BBD8BD15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LighthouseSocial.Application", "LighthouseSocial.Application\LighthouseSocial.Application.csproj", "{EC84ABA1-A126-491C-9A1B-BD95CD12AC56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{8449F857-1DD5-4B6F-852C-CA00BBD8BD15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8449F857-1DD5-4B6F-852C-CA00BBD8BD15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8449F857-1DD5-4B6F-852C-CA00BBD8BD15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC84ABA1-A126-491C-9A1B-BD95CD12AC56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC84ABA1-A126-491C-9A1B-BD95CD12AC56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC84ABA1-A126-491C-9A1B-BD95CD12AC56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC84ABA1-A126-491C-9A1B-BD95CD12AC56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
